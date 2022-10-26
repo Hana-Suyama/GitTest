@@ -1,10 +1,13 @@
 #include <stdio.h>
+#include <iostream>
 
 int main(){
 
-	printf("Hello Github World");
+	std::cout << "Hello Github World" << std::endl;
 
-	printf("New Branch Changed");
+	std::cout << "New Branch Changed" << std::endl;
+
+	std::cout << "third branch" << std::endl;
 
 	return 0;
 }
