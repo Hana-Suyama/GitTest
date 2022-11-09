@@ -4,7 +4,7 @@ int main(){
 
 	printf("Hello Github World");
 
-	printf("New Branch Changed");
+	printf("Github Clone Changed");
 
 	return 0;
 }
